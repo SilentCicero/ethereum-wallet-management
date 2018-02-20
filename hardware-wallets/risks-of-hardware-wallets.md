@@ -10,5 +10,5 @@ Most hardware wallets are also vulnerable to a slew of spoofing techniques, some
 
 While there are some air-gapped hardware wallets coming onto the market, they are less popular and harder to use on a regular basis.
 
-References:
+#### Further Reading:
 https://news.bitcoin.com/ledger-addresses-man-in-the-middle-attack-that-threatens-millions-of-hardware-wallets/
