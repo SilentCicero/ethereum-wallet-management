@@ -1,4 +1,4 @@
-### Attaining Hardware Wallets
+### Obtaining Hardware Wallets
  
 - There are countless scams attempting to sell you either pre-setup or maliciously programmed hardware wallets. Always buy Hardware Wallets directly from the manufacturer.
 
