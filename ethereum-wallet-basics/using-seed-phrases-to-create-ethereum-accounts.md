@@ -28,7 +28,7 @@ Using this password:
 
 	fJF*(SDF*(*@J!)(SU*(D*F&^&TYSDFHL#@HO*&O
 
-And this HD path:
+And this HD (hierarchical deterministic) path:
 
 	m/44'/60'/0'/0/0
 
@@ -42,7 +42,7 @@ Which will then derive to this Ethereum public key:
 
 Which will derive to this public Ethereum address:
 		
-		0x02941ca660485Ba7Dc196B510D9A6192c2648709
+	0x02941ca660485Ba7Dc196B510D9A6192c2648709
 
 (Do not use this account for any real funds...you will lose everything you put in there.)
 
