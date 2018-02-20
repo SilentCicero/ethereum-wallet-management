@@ -1,18 +1,18 @@
 ### Why SD Cards over USB Keys
 
-- SD Cards are simply a leaner and simpler flash memory chip than USBs (meaning they have less firmware and less accessible firmware, from what I’ve researched).
+- SD Cards are simply a leaner and simpler flash memory chip than USBs (meaning they have less firmware and less accessible firmware, at least from what I’ve researched).
 
-- By design they contain simpler hardware than USBs, but still none the less have firmware of some kind. They are slightly less complex than microSDs, but virtually the same from a vulnerabilities perspective.
+- By design, they generally contain simpler hardware than USBs, but still have firmware of some kind to manage memory. They are slightly less complex than microSDs, but are virtually the same from a vulnerabilities perspective.
 
 - They are not good for medium to long term storage as the memory is not intended for long term storage use. Their life span ranges anywhere from 3 to 20 years depending on the chip quality, how often it is used, and if you win the factory lottery of having a chip with 20%+ good data storage blocks.
 
-- They should only be used for data transfer and short to medium term storage. Recording important data should be done on more reliable mediums (e.g. whatever has lasted historically) within reliable environments (with little to no fluctuating temperature, moisture, static etc).
+- They should only be used for data transfer and short to medium term storage. Recording important data should be done on more reliable mediums (e.g. whatever has lasted historically) within reliable environments (with little to no fluctuating temperature, moisture, static etc, as this can currupt the memory blocks overtime).
 
 - Also remember to turn the lock write protection on, once you are done writing data to them (no need to have it off unless you are swapping data).
 
 - Assume 80%+ of the memory blocks inside portable flash memory (i.e. SD, microSD, USB) to be bad/invalid/corrupt within the hardware, and the little micro-controller inside (that can be infected or reprogrammed as loggers etc) trying to present to you a guess of what is on the good/bad blocks within the flash (I know...it's insane).
 
-- They can be infected with malware (as most contain a tiny microprocessor to fix their bad block management).
+- They can be infected with malware (as most contain a tiny microprocessor to fix / management their memory blocks).
 
 - Redundancy among multiple storage mediums (digital and analog) is probably a good choice for longer term data storage and protection
 
