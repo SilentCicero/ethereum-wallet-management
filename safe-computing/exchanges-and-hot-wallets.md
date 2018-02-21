@@ -19,12 +19,14 @@
 
 Many of the current available wallets have lost millions of dollars worth of funds due to UI malfunctions, bugs, and hacks. Here is a small list of some of those and the losses.
 
-1. [Parity](https://ethereum.stackexchange.com/questions/16347/did-i-generate-an-existing-ethereum-address-in-parity#16347) (5000+ ETH loss)
+1. [Parity by EthCore](https://medium.com/@Pr0Ger/another-parity-wallet-hack-explained-847ca46a2e1c) (approx. 514,000 ETH loss)
 
-2. [Jaxx](https://vxlabs.com/2017/06/10/extracting-the-jaxx-12-word-wallet-backup-phrase/) (approx. unknown loss)
+2. [Parity by EthCore](https://ethereum.stackexchange.com/questions/16347/did-i-generate-an-existing-ethereum-address-in-parity#16347) (5000+ ETH loss)
 
-3. [Mist](http://www.newsbtc.com/2016/05/13/ethereum-user-reports-loss-7182-eth-mist-wallet/) (7182+ ETH loss)
+3. [Jaxx by Decentral Inc.](https://vxlabs.com/2017/06/10/extracting-the-jaxx-12-word-wallet-backup-phrase/) (approx. unknown loss)
 
-4. [ChamberWallet](https://www.ethnews.com/potential-issue-reported---ethereum-chamber-wallet) (approx. 300+ ETH loss)
+4. [Mist by Ethereum Foundation](http://www.newsbtc.com/2016/05/13/ethereum-user-reports-loss-7182-eth-mist-wallet/) (7182+ ETH loss)
 
-5. [Quadriga](https://steemit.com/cryptocurrency/@barrydutton/breaking-the-biggest-canadian-coin-exchange-quadrigacx-loses-67-000-usdeth-due-to-coding-error-funds-locked-in-an-executable) (approx. 67000+ ETH loss)
+5. [ChamberWallet](https://www.ethnews.com/potential-issue-reported---ethereum-chamber-wallet) (approx. 300+ ETH loss)
+
+6. [Quadriga](https://steemit.com/cryptocurrency/@barrydutton/breaking-the-biggest-canadian-coin-exchange-quadrigacx-loses-67-000-usdeth-due-to-coding-error-funds-locked-in-an-executable) (approx. 67,000+ ETH loss)
