@@ -21,7 +21,7 @@ Many of the current available wallets have lost millions of dollars worth of fun
 
 1. [Parity by EthCore](https://medium.com/@Pr0Ger/another-parity-wallet-hack-explained-847ca46a2e1c) (approx. 514,000 ETH loss)
 
-2. [Parity by EthCore](https://ethereum.stackexchange.com/questions/16347/did-i-generate-an-existing-ethereum-address-in-parity#16347) (5000+ ETH loss)
+2. [Parity by EthCore](https://ethereum.stackexchange.com/questions/16347/did-i-generate-an-existing-ethereum-address-in-parity#16347) (approx. 5000+ ETH loss)
 
 3. [Jaxx by Decentral Inc.](https://vxlabs.com/2017/06/10/extracting-the-jaxx-12-word-wallet-backup-phrase/) (approx. unknown loss)
 
