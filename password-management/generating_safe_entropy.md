@@ -15,7 +15,7 @@ In his Bip39 tool, Ian Coleman describes good entropy generation and his tools u
 >[You are not a good source of entropy.](https://bitcointalk.org/index.php?topic=311000.msg3345309#msg3345309)
 
 Use a combination of any or all to generate your own source of entropy:
-- Using  tools like the [KeePassX](https://www.keepassx.org) built-in password generator (with all entropy settings enabled, and the length set to maximum) or [1Passsword](https://1password.com).
+- Using  tools like the [KeePassX](https://www.keepassx.org) built-in password generator (with all entropy settings enabled, and the length set to maximum) or [1Password](https://1password.com).
 
 - Rolling dice, flipping a coin and recording those numbers.
 
